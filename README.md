@@ -6,5 +6,7 @@ Our internships are designed to simulate real-world work experiences, giving stu
 
 ## Website
 https://prodigyinfotech.dev/
+
 Industry
+
 Software Development
