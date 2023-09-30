@@ -10,3 +10,6 @@ https://prodigyinfotech.dev/
 Industry
 
 Software Development
+
+## Offer Letter
+![ProdigyInfo_Internship_Offer_Letter_page-0001](https://github.com/Usama-Amjad/PRODIGY/assets/87925026/2526cff3-b6e0-4efc-91a8-0b75c0d2a63f)
